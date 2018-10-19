@@ -1,0 +1,10 @@
+comments:
+  allowedFields: ["name", "message"]
+  
+  branch: "master"
+
+  commitMessage: "add staticman comment"
+
+  filename: "comment_{@timestamp}"
+
+  path: "data/{options.slug}"

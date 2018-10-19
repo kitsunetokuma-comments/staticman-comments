@@ -10,3 +10,5 @@ comments:
   path: "data/{fields.name}"
 
   format: "yaml"
+
+  moderation: "false"

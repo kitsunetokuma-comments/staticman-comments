@@ -8,3 +8,5 @@ comments:
   filename: "comment_{@timestamp}"
 
   path: "data/{options.slug}"
+
+  format: "yaml"

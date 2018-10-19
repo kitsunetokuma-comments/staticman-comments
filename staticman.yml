@@ -7,7 +7,7 @@ comments:
 
   filename: "comment_{@timestamp}"
 
-  path: "data/{fields.name}"
+  path: "data/{options.slug}"
 
   format: "yaml"
 
